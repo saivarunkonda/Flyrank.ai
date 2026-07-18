@@ -17,3 +17,5 @@ This repository currently contains starter documentation and repository conventi
 - Define the product scope
 - Add the application stack and runtime setup
 - Replace this stub with implementation details
+
+Updating project
