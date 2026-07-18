@@ -18,4 +18,3 @@ This repository currently contains starter documentation and repository conventi
 - Add the application stack and runtime setup
 - Replace this stub with implementation details
 
-Updating project
